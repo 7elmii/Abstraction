@@ -1,0 +1,8 @@
+C:\Users\Trainer3\source\repos\tests\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Users\Trainer3\source\repos\tests\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\Trainer3\source\repos\tests\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\Trainer3\source\repos\tests\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.AssemblyReference.cache
+C:\Users\Trainer3\source\repos\tests\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Trainer3\source\repos\tests\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\Trainer3\source\repos\tests\Abstraction\Abstraction\obj\Debug\Abstraction.pdb
+C:\Users\Trainer3\source\repos\tests\Abstraction\Abstraction\obj\Debug\Abstraction.exe.config
